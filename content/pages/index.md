@@ -61,7 +61,16 @@ sections:
         text: >
           Siti web responsive, veloci e ottimizzati per SEO, pensati per
           valorizzare il tuo brand e far crescere il tuo business.
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         elementId: null
         colors: bg-neutralAlt-fg-dark
         styles:
