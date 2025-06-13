@@ -48,8 +48,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      “Con un approccio strategico e creativo, aiutiamo il tuo business a
-      emergere nel digitale attraverso contenuti efficaci e campagne su misura.”
+      Con un approccio strategico e creativo, aiutiamo il tuo business a
+      emergere nel digitale attraverso contenuti efficaci e campagne su misura.
     items:
       - type: FeaturedItem
         title: 500k
