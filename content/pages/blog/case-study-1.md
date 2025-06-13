@@ -1,7 +1,7 @@
 ---
 title: 'Caso studio: Toys Store'
 slug: case-study-1
-date: '2025-05-13'
+date: '2025-04-13'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
