@@ -7,7 +7,9 @@ sections:
       type: TitleBlock
       text: Scrivici qui!
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: >-
+      Se preferisci, puoi anche compilare il modulo sottostante e ti
+      risponderemo al più presto!
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
