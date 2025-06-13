@@ -47,7 +47,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      “Con un approccio strategico e creativo, aiutiamo il tuo business a
+      emergere nel digitale attraverso contenuti efficaci e campagne su misura.”
     items:
       - type: FeaturedItem
         title: 500k
