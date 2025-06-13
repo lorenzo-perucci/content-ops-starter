@@ -85,10 +85,10 @@ sections:
               borderRadius: x-large
       - title: Social Media Agency
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Gestione completa dei canali social, dal piano editoriale alle
+          campagne pubblicitarie, per creare una community fedele e aumentare le
+          vendite.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
