@@ -105,7 +105,7 @@ sections:
           type: ImageBlock
         actions:
           - type: Button
-            label: Get started
+            label: Scopri di più
             altText: ''
             url: /
             showIcon: false
