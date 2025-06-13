@@ -56,7 +56,7 @@ sections:
       aumentare visibilità e fatturato.
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Web Developing
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
