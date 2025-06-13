@@ -63,7 +63,7 @@ sections:
           valorizzare il tuo brand e far crescere il tuo business.
         actions:
           - type: Button
-            label: Get started
+            label: Scopri di più
             altText: ''
             url: /
             showIcon: false
