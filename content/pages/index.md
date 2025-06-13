@@ -110,10 +110,9 @@ sections:
         type: FeaturedItem
       - title: Branding Digitale
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Costruiamo l’identità del tuo brand online, con un’immagine coerente e
+          riconoscibile che parla ai tuoi clienti.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
