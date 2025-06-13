@@ -84,7 +84,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Social Media Agency
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Gestione completa dei canali social, dal piano editoriale alle
           campagne pubblicitarie, per creare una community fedele e aumentare le
