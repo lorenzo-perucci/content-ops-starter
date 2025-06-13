@@ -90,7 +90,7 @@ sections:
           campagne pubblicitarie, per creare una community fedele e aumentare le
           vendite.
         image:
-          url: /images/icon2.svg
+          url: /images/7488596.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
