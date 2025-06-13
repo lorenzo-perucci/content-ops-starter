@@ -35,6 +35,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+        tagline: e-mail
       - type: FeaturedItem
         title: Open Source Engineer
         subtitle: Marketing
