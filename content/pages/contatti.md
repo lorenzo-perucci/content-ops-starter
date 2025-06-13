@@ -10,7 +10,10 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Siamo sempre pronti ad ascoltarti! Se hai domande, richieste o vuoi sapere
+      di più sui nostri servizi, non esitare a metterti in contatto con noi. Ti
+      risponderemo il prima possibile!
     items:
       - type: FeaturedItem
         title: Account Executive
