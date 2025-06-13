@@ -21,7 +21,7 @@ sections:
         text: ''
         actions:
           - type: Link
-            label: Send email
+            label: Invia mail
             altText: Play
             url: 'mailto:lp@lorenzoperucci.com'
             showIcon: true
