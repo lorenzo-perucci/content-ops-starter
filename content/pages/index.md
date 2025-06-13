@@ -41,7 +41,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Cosa facciamo per la tua azienda
       color: text-dark
       styles:
         self:
