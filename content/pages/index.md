@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        LP PRODUCTIONS: Strategie, contenuti e risultati. Per il tuo business
-        digitale.
+      text: LP PRODUCTIONS
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
