@@ -10,7 +10,7 @@ sections:
     subtitle: 'Strategie, contenuti e risultati. Per il tuo business digitale.'
     text: ''
     actions:
-      - label: Get started
+      - label: Scopri i nostri servizi
         altText: ''
         url: /
         showIcon: false
