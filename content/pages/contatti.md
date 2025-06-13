@@ -17,7 +17,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ✉️ lp@lorenzoperucci.com
-        subtitle: Sales
+        subtitle: ''
         text: ''
         actions:
           - type: Link
