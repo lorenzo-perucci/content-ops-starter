@@ -109,7 +109,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Branding Digitale
-        subtitle: Faster
+        subtitle: ''
         text: >
           Costruiamo l’identità del tuo brand online, con un’immagine coerente e
           riconoscibile che parla ai tuoi clienti.
