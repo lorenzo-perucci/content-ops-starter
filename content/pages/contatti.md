@@ -2,7 +2,7 @@
 type: PageLayout
 title: Contatti
 sections: []
-slug: empty
+slug: contatti
 isDraft: false
 seo:
   type: Seo
