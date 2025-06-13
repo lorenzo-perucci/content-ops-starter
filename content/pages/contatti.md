@@ -22,7 +22,16 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
-        actions: []
+        actions:
+          - type: Link
+            label: Send email
+            altText: Play
+            url: 'mailto:lp@lorenzoperucci.com'
+            showIcon: true
+            icon: mail
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutral-fg-dark
         styles:
           self:
