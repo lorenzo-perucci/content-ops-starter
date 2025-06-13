@@ -1,14 +1,14 @@
 ---
-title: Case study 1
+title: 'Caso studio: Toys Store'
 slug: case-study-1
-date: '2022-01-05'
+date: '2025-04-23'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/24431f73-cb60-44d4-b995-21afdd6db6d4.jpeg
   altText: Case study 1
   styles:
     self:
@@ -87,15 +87,23 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+Uno dei casi di maggior successo di LP Productions è rappresentato dalla collaborazione con Toys Store, un negozio di giocattoli situato a Vittoria (RG). Il progetto con Toys Store Vittoria ha dimostrato l'efficacia delle strategie proposte da LP Productions, con risultati tangibili che hanno portato il negozio a una significativa espansione della sua presenza digitale.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+![](/images/Screenshot%202025-06-13%20alle%2013.12.19.png)
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+**Risultati Ottenuti**
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
++30% di Views e Account Raggiunti: Grazie a una gestione accurata delle piattaforme social, in particolare Instagram, le visualizzazioni e il numero di account raggiunti sono aumentati notevolmente. Questo ha permesso al brand di Toys Store di farsi conoscere da un pubblico molto più ampio, anche al di fuori della provincia di **Ragusa**.
 
-![](/images/img-placeholder.svg)
+Nuovi Clienti e Aumento delle Vendite: L’agenzia ha progettato contenuti coinvolgenti e video promozionali che hanno attratto nuovi clienti e stimolato un incremento nelle vendite. I video, in particolare, hanno avuto un impatto significativo, dando visibilità a promozioni e prodotti di punta del negozio.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+
+
+Introduzione dei Pagamenti a Rate con **ALMA**: Con la collaborazione di ALMA, che ha permesso ai clienti di acquistare a rate, Toys Store ha **reso** più accessibili i suoi prodotti, incentivando un numero maggiore di acquisti. Questa novità ha avuto un impatto positivo anche sul volume delle vendite, rendendo il negozio più attrattivo per una clientela più ampia e diversificata.
+
+
+Espansione al di Fuori della Provincia: Un altro obiettivo fondamentale raggiunto grazie a LP Productions è stata l'espansione della visibilità del brand a **Palermo**, **Roma** e altre città. Grazie alla crescente interazione sui social e ai repost da parte delle aziende produttrici, Toys Store ha potuto raggiungere nuovi potenziali clienti, ampliando la sua clientela ben oltre i confini locali.
+
+
+Community Attiva e Coinvolta: Le interazioni sui social sono aumentate, portando a una community più attiva e partecipativa. Questo ha contribuito a rendere Toys Store non solo un punto di riferimento per gli acquisti, ma anche un marchio amato e apprezzato dalla sua clientela.
+
