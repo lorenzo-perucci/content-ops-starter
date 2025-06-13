@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        LP PRODUCTIONS:Strategie, contenuti e risultati. Per il tuo business
+        LP PRODUCTIONS: Strategie, contenuti e risultati. Per il tuo business
         digitale.
       color: text-dark
       type: TitleBlock
