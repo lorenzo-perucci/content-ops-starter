@@ -58,10 +58,9 @@ sections:
       - type: FeaturedItem
         title: Web Developing
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Siti web responsive, veloci e ottimizzati per SEO, pensati per
+          valorizzare il tuo brand e far crescere il tuo business.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
