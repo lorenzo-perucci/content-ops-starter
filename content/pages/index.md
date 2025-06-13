@@ -48,8 +48,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      Con un approccio strategico e creativo, aiutiamo il tuo business a
-      emergere nel digitale attraverso contenuti efficaci e campagne su misura.
+      Da LP PRODUCTIONS creiamo e sviluppiamo siti web performanti e moderni,
+      progettati per convertire visitatori in clienti.
+
+      La nostra social media agency gestisce la tua presenza online con
+      strategie di branding efficaci e campagne pubblicitarie mirate, per
+      aumentare visibilità e fatturato.
     items:
       - type: FeaturedItem
         title: 500k
