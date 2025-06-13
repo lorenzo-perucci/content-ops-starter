@@ -16,7 +16,7 @@ sections:
       risponderemo il prima possibile!
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: ✉️ lp@lorenzoperucci.com
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
