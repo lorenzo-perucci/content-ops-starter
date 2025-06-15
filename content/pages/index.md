@@ -14,9 +14,6 @@ sections:
       - type: ImageBlock
         altText: Contentful logo
         elementId: ''
-      - type: ImageBlock
-        altText: Sanity logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
