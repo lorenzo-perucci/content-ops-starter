@@ -392,5 +392,6 @@ sections:
     type: DividerSection
 seo:
   type: Seo
+  metaTitle: LP PRODUCTIONS - LORENZO PERUCCI
 type: PageLayout
 ---
