@@ -23,6 +23,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        textDecoration: underline
   - type: GenericSection
     title:
       text: LP PRODUCTIONS
