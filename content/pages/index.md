@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Sito in costruzione
     images: []
     elementId: ''
     motion: static
