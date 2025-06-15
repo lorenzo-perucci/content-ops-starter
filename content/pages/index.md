@@ -4,10 +4,7 @@ slug: /
 sections:
   - type: ImageGallerySection
     subtitle: Our customers
-    images:
-      - type: ImageBlock
-        altText: Telus logo
-        elementId: ''
+    images: []
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
