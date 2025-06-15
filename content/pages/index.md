@@ -17,9 +17,6 @@ sections:
       - type: ImageBlock
         altText: Sanity logo
         elementId: ''
-      - type: ImageBlock
-        altText: Rangle logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
