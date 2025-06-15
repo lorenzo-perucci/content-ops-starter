@@ -24,6 +24,7 @@ sections:
       subtitle:
         textAlign: center
         textDecoration: underline
+        fontWeight: 700
   - type: GenericSection
     title:
       text: LP PRODUCTIONS
