@@ -42,13 +42,7 @@ sections:
             flexDirection: row
             justifyContent: center
         tagline: e-mail
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
