@@ -21,7 +21,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:lp@lorenzoperucci.com",
             "icon": "mail",
             "type": "Social"
         }
