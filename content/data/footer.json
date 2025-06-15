@@ -8,6 +8,13 @@
     "socialLinks": [
         {
             "type": "Social",
+            "altText": "Facebook link",
+            "url": "https://www.facebook.com/profile.php?id=61563209729250",
+            "icon": "facebook",
+            "elementId": ""
+        },
+        {
+            "type": "Social",
             "altText": "Instagram link",
             "url": "https://instagram.com/lp__productions_",
             "icon": "instagram",
