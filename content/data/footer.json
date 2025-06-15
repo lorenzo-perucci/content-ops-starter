@@ -7,6 +7,13 @@
     "text": "LP PRODUCTIONS - LORENZO PERUCCI\n",
     "socialLinks": [
         {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://instagram.com/lp__productions_",
+            "icon": "instagram",
+            "elementId": ""
+        },
+        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
