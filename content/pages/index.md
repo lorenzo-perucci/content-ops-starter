@@ -8,9 +8,6 @@ sections:
       - type: ImageBlock
         altText: Telus logo
         elementId: ''
-      - type: ImageBlock
-        altText: Contentful logo
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
