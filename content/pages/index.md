@@ -6,9 +6,6 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
