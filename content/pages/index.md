@@ -400,5 +400,6 @@ seo:
     tecnologia, l'agenzia si è affermata come punto di riferimento per le
     aziende e i creatori di contenuti che desiderano crescere online con
     professionalità e creatività.
+  socialImage: /images/7034b4a4483812ecf2c8f99f227aaa10_7ff7e858b08e (1).png
 type: PageLayout
 ---
