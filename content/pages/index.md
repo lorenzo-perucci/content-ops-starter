@@ -393,5 +393,12 @@ sections:
 seo:
   type: Seo
   metaTitle: LP PRODUCTIONS - LORENZO PERUCCI
+  metaDescription: >-
+    LP PRODUCTIONS è un'azienda innovativa e dinamica, specializzata nel settore
+    della Social Media Agency, Branding dei Creator sui Social Network e
+    Sviluppo di Siti Web. Fondata da Lorenzo Perucci, un giovane appassionato di
+    tecnologia, l'agenzia si è affermata come punto di riferimento per le
+    aziende e i creatori di contenuti che desiderano crescere online con
+    professionalità e creatività.
 type: PageLayout
 ---
